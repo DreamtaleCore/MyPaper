@@ -1,0 +1,11 @@
+
+Center building in 73*52 rangtangle
+from eveletor  23 to a long wing 35
+
+Real 94*54
+just like from eveletor 23 to 35
+
+54 / 23 = 2.378
+94 / 35 = 2.686
+
+The scale is avg(2.378, 2,686) = 2.532 simplify as 2.5
